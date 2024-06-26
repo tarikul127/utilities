@@ -1,0 +1,9 @@
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: #00ffc1;
+}
+.box2{
+	background-color: #00ffc1;
+	border: 5px solid red;
+
